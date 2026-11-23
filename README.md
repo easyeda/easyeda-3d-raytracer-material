@@ -70,7 +70,7 @@ Read the guide before creating or modifying a material pack, and follow its conv
 
 ## 5. License
 
-1. the Soldering tool OBJ and MTL files was modified based on "Old Soldering Workstation" (https://skfb.ly/ovRCs) by Wikiti is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+1. Electric soldering iron, tweezers, and soldering tools are modified based on open-source models: "Old Soldering Workstation" (https://skfb.ly/ovRCs) by Wikiti is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 2. This project under Apache License
 
@@ -150,6 +150,6 @@ Read the guide before creating or modifying a material pack, and follow its conv
 
 ## 五、许可
 
-1. 电烙铁工具基于开源模型修改："Old Soldering Workstation" (https://skfb.ly/ovRCs) by Wikiti is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+1. 电烙铁、镊子、焊锡工具基于开源模型修改："Old Soldering Workstation" (https://skfb.ly/ovRCs) by Wikiti is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 2. 本项目基于 Apache License 开源。
