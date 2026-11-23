@@ -1,0 +1,25 @@
+{
+ "version": "1.0.0",
+ "elements": [
+  {
+   "name": "Base Plate",
+   "obj": "scene_model/scene_base_plate.obj",
+   "mtl": "scene_model/scene_base_plate.mtl"
+  },
+  {
+   "name": "Solder Wire",
+   "obj": "scene_model/scene_solder_wire.obj",
+   "mtl": "scene_model/scene_solder_wire.mtl"
+  },
+  {
+   "name": "Soldering Iron",
+   "obj": "scene_model/scene_soldering_iron.obj",
+   "mtl": "scene_model/scene_soldering_iron.mtl"
+  },
+  {
+   "name": "Tweezers",
+   "obj": "scene_model/scene_tweezers.obj",
+   "mtl": "scene_model/scene_tweezers.mtl"
+  }
+ ]
+}

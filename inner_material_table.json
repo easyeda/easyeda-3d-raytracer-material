@@ -1,0 +1,650 @@
+{
+ "solder_mask_green_without_copper": {
+  "color": [
+   0.01298,
+   0.14703,
+   0.0331
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_green_with_copper": {
+  "color": [
+   0.01402,
+   0.15879,
+   0.03575
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_red_without_copper": {
+  "color": [
+   0.36625,
+   0.01444,
+   0.01444
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_red_with_copper": {
+  "color": [
+   0.39555,
+   0.0156,
+   0.0156
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_blue_without_copper": {
+  "color": [
+   0.00605,
+   0.02956,
+   0.11193
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_blue_with_copper": {
+  "color": [
+   0.00653,
+   0.03192,
+   0.12089
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_yellow_without_copper": {
+  "color": [
+   0.57758,
+   0.37124,
+   0.0
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_yellow_with_copper": {
+  "color": [
+   0.62379,
+   0.40094,
+   0.0
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_black_without_copper": {
+  "color": [
+   0.007,
+   0.007,
+   0.007
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_black_with_copper": {
+  "color": [
+   0.00756,
+   0.00756,
+   0.00756
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_purple_without_copper": {
+  "color": [
+   0.06848,
+   0.01096,
+   0.12477
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_purple_with_copper": {
+  "color": [
+   0.07396,
+   0.01184,
+   0.13475
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_white_without_copper": {
+  "color": [
+   0.80695,
+   0.80695,
+   0.7913
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_white_with_copper": {
+  "color": [
+   0.87151,
+   0.87151,
+   0.8546
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_coppery_without_copper": {
+  "color": [
+   0.43415,
+   0.14703,
+   0.02315
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_coppery_with_copper": {
+  "color": [
+   0.46889,
+   0.15879,
+   0.02501
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_soft_yellow_without_copper": {
+  "color": [
+   0.19462,
+   0.06848,
+   0.00605
+  ],
+  "metallic": 0.0,
+  "roughness": 0.44,
+  "ior": 1.42,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.08,
+  "clearcoatRoughness": 0.3,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "solder_mask_soft_yellow_with_copper": {
+  "color": [
+   0.21019,
+   0.07396,
+   0.00653
+  ],
+  "metallic": 0.0,
+  "roughness": 0.38,
+  "ior": 1.45,
+  "iorLevel": 0.2,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.14,
+  "clearcoatRoughness": 0.24,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "gold": {
+  "color": [
+   0.749,
+   0.604,
+   0.224
+  ],
+  "metallic": 0.85,
+  "roughness": 0.3,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0,
+  "clearcoatRoughness": 0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.25,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "silver": {
+  "color": [
+   0.82,
+   0.82,
+   0.824
+  ],
+  "metallic": 0.85,
+  "roughness": 0.24,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0,
+  "clearcoatRoughness": 0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.3,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "aluminum": {
+  "color": [
+   0.52,
+   0.52,
+   0.54
+  ],
+  "metallic": 1.0,
+  "roughness": 0.32,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0,
+  "clearcoatRoughness": 0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.35,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "silk_white": {
+  "color": [
+   0.78741,
+   0.77755,
+   0.74841
+  ],
+  "metallic": 0.0,
+  "roughness": 0.5,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0,
+  "clearcoatRoughness": 0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "substrate_yellow": {
+  "color": [
+   0.477,
+   0.36725,
+   0.14732
+  ],
+  "metallic": 0.0,
+  "roughness": 0.78,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.0,
+  "clearcoatRoughness": 0.0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "substrate_coppery": {
+  "color": [
+   0.477,
+   0.23302,
+   0.17064
+  ],
+  "metallic": 0.0,
+  "roughness": 0.75,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.0,
+  "clearcoatRoughness": 0.0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "substrate_white": {
+  "color": [
+   0.8689,
+   0.8689,
+   0.84809
+  ],
+  "metallic": 0.0,
+  "roughness": 0.7,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.0,
+  "clearcoatRoughness": 0.0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "substrate_grey": {
+  "color": [
+   0.14732,
+   0.14732,
+   0.12597
+  ],
+  "metallic": 0.0,
+  "roughness": 0.78,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.0,
+  "clearcoatRoughness": 0.0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ },
+ "substrate_fpc": {
+  "color": [
+   0.78741,
+   0.28465,
+   0.03968
+  ],
+  "metallic": 0.0,
+  "roughness": 0.55,
+  "ior": 1.5,
+  "iorLevel": 0.5,
+  "clearcoatTintColor": [
+   1,
+   1,
+   1
+  ],
+  "clearcoatIntensity": 0.0,
+  "clearcoatRoughness": 0.0,
+  "clearcoatIor": 1.5,
+  "normalIntensity": 0.5,
+  "normalTexture": null,
+  "metallicTexture": null,
+  "colorTexture": null,
+  "roughnessTexture": null
+ }
+}

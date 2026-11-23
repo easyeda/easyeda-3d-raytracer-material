@@ -1,0 +1,105 @@
+{
+ "renderer": {
+  "rendererMaxSample": 4096,
+  "rendererEnableDenoise": true,
+  "displayDevice": "sRGB",
+  "viewTransform": "ACES",
+  "lutName": "",
+  "lutIntensity": 1,
+  "maxRayBounces": 6,
+  "hideRenderPlane": false,
+  "hideRenderTriangle": false,
+  "hideUnselected": false,
+  "selectMaterialId": 0,
+  "useBlueNoise": true
+ },
+ "background": {
+  "color": "#ffffff",
+  "useColor": false,
+  "texture": "env_studio.hdr",
+  "intensity": 0.35,
+  "rotation": 0,
+  "hide": true,
+  "hideColor": "#000000"
+ },
+ "light": {
+  "a0": {
+   "color": "#ffffff",
+   "power": 0.8061299336026756,
+   "normalize": false,
+   "size": {
+    "width": 0.011356970959566117,
+    "height": 0.011356970959566117
+   },
+   "position": [
+    -0.05678485479783058,
+    0.22713941919132233,
+    508.88782555403117
+   ],
+   "rotate": [
+    -45,
+    0,
+    25
+   ],
+   "hideRender": false,
+   "cameraVisible": true,
+   "castShadow": true,
+   "rayVisibilityDiffuse": true,
+   "rayVisibilityGlossy": true,
+   "spread": 80,
+   "colorMapTileId": -1
+  },
+  "a1": {
+   "color": "#ffffff",
+   "power": 10,
+   "normalize": false,
+   "size": {
+    "width": 2,
+    "height": 2
+   },
+   "position": [
+    0,
+    0,
+    10
+   ],
+   "rotate": [
+    0,
+    0,
+    0
+   ],
+   "hideRender": false,
+   "cameraVisible": true,
+   "castShadow": true,
+   "rayVisibilityDiffuse": true,
+   "rayVisibilityGlossy": true,
+   "spread": 180,
+   "colorMapTileId": -1
+  },
+  "a2": {
+   "color": "#ffffff",
+   "power": 10,
+   "normalize": false,
+   "size": {
+    "width": 2,
+    "height": 2
+   },
+   "position": [
+    0,
+    0,
+    10
+   ],
+   "rotate": [
+    0,
+    0,
+    0
+   ],
+   "hideRender": false,
+   "cameraVisible": true,
+   "castShadow": true,
+   "rayVisibilityDiffuse": true,
+   "rayVisibilityGlossy": true,
+   "spread": 180,
+   "colorMapTileId": -1
+  }
+ }
+}
